@@ -1,0 +1,41 @@
+body {
+  background-color: rgb(26, 25, 25);
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(83, 23, 23);
+  color: whitesmoke;
+}
+a {
+  color: whitesmoke;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+.title-main {
+  display: flex;
+  justify-content: center;
+}
+nav {
+  display: flex;
+  justify-content: space-around;
+  gap: 1rem;
+  padding: 0 25px;
+  align-items: center;
+}
+main {
+  color: whitesmoke;
+}
+
+footer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: rgb(83, 23, 23);
+  color: whitesmoke;
+}
