@@ -5,20 +5,172 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="assets/css/style-index.css" />
     <title>Accueil - Pokédex</title>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+    </style>
   </head>
   <body>
     <header>
-      <h1 class="title-main">Pokédex</h1>
+      <div class="title-main">
+        <h1>Pokédex</h1>
+      </div>
+
       <nav>
         <a href="">Accueil</a>
-        <a href="">Pokémon</a>
+        <a href="">Pokémons</a>
         <a href="">À propos</a>
       </nav>
     </header>
 
     <main>
       <section>
-        <h1>Le fabuleux monde des pokémons...</h1>
+        <p class="introduction">
+          Le fabuleux monde des pokémons... Bienvenue sur notre Pokédex en ligne
+          ! Explorez les créatures fascinantes de l'univers Pokémon, découvrez
+          leurs caractéristiques, leurs types et leurs évolutions. Que vous
+          soyez un passionné ou un débutant, ce Pokédex est votre guide pour
+          tout savoir et attraper chaque Pokémon.
+        </p>
+      </section>
+
+      <section class="popular-pokemon">
+        <h2>Les <em class="important">Pokémons</em> populaires</h2>
+        <div class="pokemon-list">
+          <div class="pokemon">
+            <img
+              src="https://img.pokemondb.net/artwork/large/pikachu.jpg"
+              alt="Pikachu"
+            />
+            <p>Pikachu</p>
+          </div>
+          <div class="pokemon">
+            <img
+              src="https://img.pokemondb.net/artwork/large/charmander.jpg"
+              alt="Salamèche"
+            />
+            <p>Salamèche</p>
+          </div>
+          <div class="pokemon">
+            <img
+              src="https://img.pokemondb.net/artwork/large/bulbasaur.jpg"
+              alt="Bulbizarre"
+            />
+            <p>Bulbizarre</p>
+          </div>
+          <div class="pokemon">
+            <img
+              src="https://img.pokemondb.net/artwork/large/squirtle.jpg"
+              alt="Carapuce"
+            />
+            <p>Carapuce</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="pokemon-types">
+        <h2>Types des <em class="important">Pokémons</em></h2>
+        <aside>
+          <table>
+            <tr>
+              <th>Type</th>
+              <th>Description</th>
+            </tr>
+            <tr>
+              <td>Normal</td>
+              <td>Pas de particularité élémentaire spécifique.</td>
+            </tr>
+            <tr>
+              <td>Feu</td>
+              <td>Maîtrise des attaques enflammées, comme Salamèche.</td>
+            </tr>
+            <tr>
+              <td>Eau</td>
+              <td>Capacité à contrôler l'eau, comme Carapuce.</td>
+            </tr>
+            <tr>
+              <td>Plante</td>
+              <td>
+                Utilisation de la nature et des plantes, comme Bulbizarre.
+              </td>
+            </tr>
+            <tr>
+              <td>Électrique</td>
+              <td>Maîtrise de l'électricité, comme Pikachu.</td>
+            </tr>
+            <tr>
+              <td>Glace</td>
+              <td>Capable de manipuler la glace pour des attaques froides.</td>
+            </tr>
+            <tr>
+              <td>Combat</td>
+              <td>Spécialisé dans les attaques physiques directes.</td>
+            </tr>
+            <tr>
+              <td>Poison</td>
+              <td>Utilisation de toxines pour affaiblir l'adversaire.</td>
+            </tr>
+            <tr>
+              <td>Sol</td>
+              <td>
+                Attaques basées sur la terre, très efficace contre l'Électrique.
+              </td>
+            </tr>
+            <tr>
+              <td>Vol</td>
+              <td>Maîtrise de l'air et capable de voler.</td>
+            </tr>
+            <tr>
+              <td>Psy</td>
+              <td>Attaques basées sur la télépathie et la psychokinésie.</td>
+            </tr>
+            <tr>
+              <td>Insecte</td>
+              <td>Utilisation de capacités liées aux insectes.</td>
+            </tr>
+            <tr>
+              <td>Roche</td>
+              <td>Très résistants, spécialistes des attaques terrestres.</td>
+            </tr>
+            <tr>
+              <td>Spectre</td>
+              <td>Capacités basées sur les esprits et l'invisibilité.</td>
+            </tr>
+            <tr>
+              <td>Dragon</td>
+              <td>Types puissants avec des attaques dévastatrices.</td>
+            </tr>
+            <tr>
+              <td>Ténèbres</td>
+              <td>Utilisation de techniques sournoises et sombres.</td>
+            </tr>
+            <tr>
+              <td>Acier</td>
+              <td>Très résistants et immunisés contre le Poison.</td>
+            </tr>
+            <tr>
+              <td>Fée</td>
+              <td>Spécialisés dans la magie et forts contre le type Dragon.</td>
+            </tr>
+          </table>
+        </aside>
+      </section>
+
+      <section class="pokemon-world">
+        <h2>Explorez le Monde des <em class="important">Pokémons</em></h2>
+        <p class="finish">
+          Le monde Pokémon est un univers vaste et riche, peuplé de créatures
+          étonnantes aux capacités uniques. Depuis les régions de Kanto jusqu'à
+          celles de Paldéa, chaque région abrite des Pokémon uniques et offre
+          des environnements variés, comme des montagnes enneigées, des forêts
+          luxuriantes et des villes modernes.
+        </p>
+        <p class="finish">
+          En tant que Dresseur, votre mission est de capturer et d’entraîner des
+          Pokémon pour les faire évoluer et devenir plus puissants. Chaque type
+          de Pokémon a ses forces et ses faiblesses, ce qui rend chaque combat
+          stratégique et unique. Êtes-vous prêt à tous les attraper ?
+        </p>
+        <br />
       </section>
     </main>
 
