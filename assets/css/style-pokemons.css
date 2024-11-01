@@ -1,0 +1,66 @@
+/* Import de la police */
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+/* Styles généraux */
+* {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+}
+
+body {
+  background-color: rgb(26, 25, 25);
+  color: whitesmoke;
+}
+
+/* Header */
+header {
+  display: flex;
+  align-items: center;
+  background-color: rgb(83, 23, 23);
+  padding: 0 25px;
+}
+
+.title-main {
+  flex-grow: 1;
+  text-align: center;
+  padding-left: 400px;
+}
+
+nav {
+  display: flex;
+  gap: 1rem;
+  margin-left: auto;
+}
+
+a {
+  color: whitesmoke;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: rgb(56, 54, 54);
+}
+
+.button {
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+  text-align: center;
+  background-color: rgb(26, 25, 25);
+}
+
+/* Main */
+main {
+  padding: 0 250px;
+}
+
+/* Footer */
+footer {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(83, 23, 23);
+  color: whitesmoke;
+  padding: 10px 0;
+}
