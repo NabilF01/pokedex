@@ -57,7 +57,8 @@ Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou à
 ### Étapes pour contribuer :
 
 1. **Forker le repository**
-2. **Créer une branche** pour votre fonctionnalité :
+ - Cliquez sur le bouton "Fork" en haut à droite de la page GitHub de ce repository.
+3. **Créer une branche** pour votre fonctionnalité :
    ```bash
     git checkout -b ma-fonctionnalite
 4. **Committer vos modifications** : 
