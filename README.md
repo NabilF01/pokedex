@@ -57,10 +57,16 @@ Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou à
 ### Étapes pour contribuer :
 
 1. **Forker le repository**
-2. **Créer une branche** pour votre fonctionnalité : `git checkout -b ma-fonctionnalite`
-3. **Committer vos modifications** : `git commit -m 'Ajout de ma fonctionnalité'`
-4. **Pousser la branche** : `git push origin ma-fonctionnalite`
-5. **Créer un pull request**
+2. **Créer une branche** pour votre fonctionnalité :
+   ```bash
+    git checkout -b ma-fonctionnalite
+4. **Committer vos modifications** : 
+      ```bash
+      git commit -m 'Ajout de ma fonctionnalité
+6. **Pousser la branche** : 
+      ```bash
+      git push origin ma-fonctionnalite
+8. **Créer un pull request**
 
 ---
 
