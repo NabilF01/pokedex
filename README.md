@@ -1,38 +1,85 @@
-# Pokédex en ligne 🌟
+# 🎉 Pokédex en Ligne 🎉
 
-Bienvenue dans le **Pokédex en ligne**, un projet inspiré du monde fantastique des Pokémon. Ce site web vous permet d'explorer et de découvrir des informations détaillées sur chaque Pokémon : leurs types, caractéristiques, évolutions, et bien plus encore.
-
-![Pokedex Banner](assets/images/pokedex-banner.png) <!-- Remplacez par un lien ou une image de bannière si disponible -->
-
-## 📜 Sommaire
-- [Aperçu du Projet](#-aperçu-du-projet)
-- [Fonctionnalités](#-fonctionnalités)
-- [Installation](#-installation)
-- [Utilisation](#-utilisation)
-- [Technologies Utilisées](#-technologies-utilisées)
-- [Contributions](#-contributions)
-- [Aperçu Visuel](#-aperçu-visuel)
-- [License](#-license)
+Bienvenue dans le **Pokédex en ligne**, un projet conçu pour les passionnés de Pokémon ! Ce site vous permet d'explorer les créatures légendaires et emblématiques de l'univers Pokémon avec des détails sur leurs types, caractéristiques, et évolutions.
 
 ---
 
-## 🌍 Aperçu du Projet
-Ce Pokédex en ligne est conçu pour les fans de Pokémon souhaitant explorer chaque créature dans les moindres détails. Que vous soyez un passionné de longue date ou un nouveau dresseur, ce Pokédex est votre guide ultime pour tout savoir sur les Pokémon.
+## 🌟 Fonctionnalités
 
-**Objectifs :**
-- Offrir une interface intuitive pour rechercher et explorer des Pokémon.
-- Proposer des informations détaillées et visuellement attrayantes pour chaque Pokémon.
-- Présenter un design inspiré par l'univers Pokémon, avec une palette de couleurs cohérente.
+- 🔍 **Recherche de Pokémon** : Trouvez les Pokémon par nom ou numéro.
+- 🐉 **Types de Pokémon** : Découvrez les différents types (Feu, Eau, Plante, etc.) et leurs spécificités.
+- 📊 **Détails de chaque Pokémon** : Informations complètes sur chaque Pokémon (taille, poids, évolutions, etc.).
+- 🌍 **Introduction immersive** : Plongez dans l'univers Pokémon dès l'accueil avec une présentation captivante.
 
-## ✨ Fonctionnalités
-- **Recherche de Pokémon :** Trouvez un Pokémon en fonction de son nom ou de son numéro.
-- **Affichage des Détails :** Voir les caractéristiques principales : type, poids, taille, évolutions.
-- **Types de Pokémon :** Découvrir les types de Pokémon et leurs caractéristiques.
-- **Informations Générales :** Plongez dans le monde Pokémon avec des descriptions captivantes.
+---
 
-## ⚙️ Installation
-Pour exécuter ce projet en local, suivez les étapes ci-dessous :
+## 🖱️ Utilisation
+
+Naviguez à travers les différentes pages pour explorer l'univers des Pokémon :
+
+- **Accueil** : Page principale avec introduction au Pokédex.
+- **Pokémon** : Liste des Pokémon avec la possibilité de consulter leurs détails.
+- **À propos** : Informations sur le projet et son créateur.
+
+---
+
+## 🚀 Installation
+
+Pour tester ce projet en local :
 
 1. **Clonez le repository :**
    ```bash
    git clone https://github.com/NabilF01/mon-pokedex.git
+2. **Ouvrez le projet :**
+   - Ouvrez le fichier `index.html` dans votre navigateur pour voir le site en local.
+   - Vous pouvez également utiliser un serveur local comme **Live Server** dans Visual Studio Code pour une expérience optimisée.
+
+---
+
+## 🛠️ Technologies Utilisées
+
+- **HTML5** : Structure de base du site.
+- **CSS3** : Styles et mise en page du site.
+- **JavaScript** (optionnel) : Pour la recherche dynamique et les interactions avancées.
+- **Google Fonts** : Typographie personnalisée avec Montserrat.
+- **Palette de couleurs** : #531717 (rouge), #1A1919 (noir), #F5F5F5 (blanc), et #3DA5F4 (bleu pour accentuation).
+
+---
+
+## 🎨 Aperçu Visuel
+
+Voici quelques aperçus des pages principales de ce projet :
+
+| Page d'Accueil                        | Page des Détails Pokémon               |
+|---------------------------------------|----------------------------------------|
+| ![Accueil](assets/images/homepage.png) | ![Détails](assets/images/details.png)  |
+
+*Les images peuvent être modifiées pour mieux représenter le contenu.*
+
+---
+
+## 🤝 Contributions
+
+Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou à faire un pull request pour :
+
+- Corriger des bugs
+- Ajouter des fonctionnalités
+- Améliorer la documentation
+
+### Étapes pour contribuer :
+
+1. **Forker le repository**
+2. **Créer une branche** pour votre fonctionnalité : `git checkout -b ma-fonctionnalite`
+3. **Committer vos modifications** : `git commit -m 'Ajout de ma fonctionnalité'`
+4. **Pousser la branche** : `git push origin ma-fonctionnalite`
+5. **Créer un pull request**
+
+---
+
+## 📜 License
+
+Ce projet est sous licence MIT. Vous êtes libre de l'utiliser et de le modifier comme bon vous semble.
+
+---
+
+Merci d'explorer le **Pokédex en ligne** ! 🎮 Que la chasse aux Pokémon commence !
