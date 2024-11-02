@@ -71,10 +71,4 @@ Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou à
 
 ---
 
-## 📜 License
-
-Ce projet est sous licence MIT. Vous êtes libre de l'utiliser et de le modifier comme bon vous semble.
-
----
-
 Merci d'explorer le **Pokédex en ligne** ! 🎮 Que la chasse aux Pokémons commence !
