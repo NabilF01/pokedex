@@ -29,7 +29,7 @@ Pour tester ce projet en local :
 
 1. **Clonez le repository :**
    ```bash
-   git clone https://github.com/NabilF01/mon-pokedex.git
+   git clone https://github.com/NabilF01/pokedex.git
 2. **Ouvrez le projet :**
    - Ouvrez le fichier `index.html` dans votre navigateur pour voir le site en local.
    - Vous pouvez également utiliser un serveur local comme **Live Server** dans Visual Studio Code pour une expérience optimisée.
