@@ -46,18 +46,6 @@ Pour tester ce projet en local :
 
 ---
 
-## 🎨 Aperçu Visuel
-
-Voici quelques aperçus des pages principales de ce projet :
-
-| Page d'Accueil                        | Page des Détails Pokémon               |
-|---------------------------------------|----------------------------------------|
-| ![Accueil](assets/images/homepage.png) | ![Détails](assets/images/details.png)  |
-
-*Les images peuvent être modifiées pour mieux représenter le contenu.*
-
----
-
 ## 🤝 Contributions
 
 Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou à faire un pull request pour :
@@ -82,4 +70,4 @@ Ce projet est sous licence MIT. Vous êtes libre de l'utiliser et de le modifier
 
 ---
 
-Merci d'explorer le **Pokédex en ligne** ! 🎮 Que la chasse aux Pokémon commence !
+Merci d'explorer le **Pokédex en ligne** ! 🎮 Que la chasse aux Pokémons commence !
